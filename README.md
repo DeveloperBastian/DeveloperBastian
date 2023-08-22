@@ -13,4 +13,8 @@ I split that journey into an [english](https://www.youtube.com/watch?v=frpAzIuGL
 # Infographic
 I like to see components working togeher to understand how to use them best. As Lyra is a bit thinly documented, I started to create an [Infographic](https://github.com/DeveloperBastian/Unreal-Lyra-Concepts) to better visualize these concepts and connect them to my videos.
 
-I hops this content can helkp you a bit on your game creation journey, have fun!
+I hops this content can help you a bit on your game creation journey, have fun!
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />All repositories are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>
+
