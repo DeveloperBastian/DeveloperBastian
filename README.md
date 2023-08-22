@@ -1,4 +1,4 @@
-<a href="https://avatars.githubusercontent.com/u/125897256?v=4" />
+<img alt="Creative Commons License" style="border-width:0" src="https://avatars.githubusercontent.com/u/125897256?v=4" />
 
 ## Developer Bastian
 
@@ -15,6 +15,11 @@ I like to see components working togeher to understand how to use them best. As 
 
 I hops this content can help you a bit on your game creation journey, have fun!
 
+# License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />All repositories are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>
+All repositories are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
